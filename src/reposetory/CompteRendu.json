@@ -1,0 +1,44 @@
+[
+  {
+    "idCompteRendu": 1,
+    "idMedecinRadiologue": 1,
+    "contenu": "Aucune anomalie détectée, images claires.",
+    "examen": "IRM",
+    "date": "2023-10-02/09:00:00"
+  },
+  {
+    "idCompteRendu": 2,
+    "idMedecinRadiologue": 2,
+    "contenu": "Les résultats montrent des anomalies suspectes.",
+    "examen": "SCANNER",
+    "date": "2023-10-03/10:00:00"
+  },
+  {
+    "idCompteRendu": 3,
+    "idMedecinRadiologue": 1,
+    "contenu": "Examen inconclusif, d'autres tests recommandés.",
+    "examen": "IRM",
+    "date": "2023-10-04/10:30:00"
+  },
+  {
+    "idCompteRendu": 4,
+    "idMedecinRadiologue": 3,
+    "contenu": "Rien d'anormal détecté dans les examens.",
+    "examen": "SCANNER",
+    "date": "2023-10-05/11:00:00"
+  },
+  {
+    "idCompteRendu": 5,
+    "idMedecinRadiologue": 4,
+    "contenu": "Anomalies nécessitant un suivi régulier.",
+    "examen": "IRM",
+    "date": "2023-10-06T10:00:00Z"
+  },
+  {
+    "idCompteRendu": 6,
+    "idMedecinRadiologue": 2,
+    "contenu": "Les images montrent des résultats normaux.",
+    "examen": "SCANNER",
+    "date": "2023-10-07/09:30:00"
+  }
+]

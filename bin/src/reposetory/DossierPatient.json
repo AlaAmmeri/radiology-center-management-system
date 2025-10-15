@@ -1,0 +1,38 @@
+[
+  {
+    "dossierID": 1,
+    "idOrdonnance": 1,
+    "idCompteRendu": 1,
+    "idExamen": 1
+  },
+  {
+    "dossierID": 2,
+    "idOrdonnance": 2,
+    "idCompteRendu": 2,
+    "idExamen": 2
+  },
+  {
+    "dossierID": 3,
+    "idOrdonnance": 3,
+    "idCompteRendu": 3,
+    "idExamen": 3
+  },
+  {
+    "dossierID": 4,
+    "idOrdonnance": 4,
+    "idCompteRendu": 4,
+    "idExamen": 4
+  },
+  {
+    "dossierID": 5,
+    "idOrdonnance": 5,
+    "idCompteRendu": 5,
+    "idExamen": 5
+  },
+  {
+    "dossierID": 6,
+    "idOrdonnance": 6,
+    "idCompteRendu": 6,
+    "idExamen": 6
+  }
+]

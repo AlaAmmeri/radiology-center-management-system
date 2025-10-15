@@ -1,0 +1,11 @@
+[
+  {
+    "idRendezVous": 0,
+    "idSalle": 1,
+    "date": "2024-12-14/12:30:00",
+    "idPatient": 1,
+    "idRadiologue": 1,
+    "idTechnicien": 1,
+    "examenType": "IRM"
+  }
+]

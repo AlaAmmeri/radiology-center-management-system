@@ -1,0 +1,79 @@
+[
+  {
+    "specialite": "SPECIALITE1",
+    "salary": 50000.0,
+    "unavailableDates": [
+      "Dec 1, 2024, 11:00:00 AM",
+      "Dec 5, 2024, 3:30:00 PM",
+      "2026-12-12/14:14:14"
+    ],
+    "ID": 1,
+    "nom": "Doe",
+    "prenom": "John",
+    "sexe": "M",
+    "age": 45,
+    "adresse": "123 Main St, Cityville",
+    "email": "johndoe@email.com",
+    "telephone": 12345690
+  },
+  {
+    "specialite": "SPECIALITE2",
+    "salary": 55000.0,
+    "unavailableDates": [
+      "Dec 2, 2024, 10:00:00 AM",
+      "Dec 6, 2024, 5:00:00 PM"
+    ],
+    "ID": 2,
+    "nom": "Smith",
+    "prenom": "Anna",
+    "sexe": "F",
+    "age": 38,
+    "adresse": "456 Oak Ave, Townsville",
+    "email": "annasmith@email.com",
+    "telephone": 98743210
+  },
+  {
+    "specialite": "SPECIALITE3",
+    "salary": 60000.0,
+    "unavailableDates": [
+      "Dec 3, 2024, 12:00:00 PM",
+      "Dec 7, 2024, 4:45:00 PM"
+    ],
+    "ID": 3,
+    "nom": "Brown",
+    "prenom": "Michael",
+    "sexe": "M",
+    "age": 50,
+    "adresse": "789 Pine Rd, Villagetown",
+    "email": "michaelbrown@email.com",
+    "telephone": 11223455
+  },
+  {
+    "specialite": "SPECIALITE4",
+    "salary": 52000.0,
+    "unavailableDates": [
+      "Dec 4, 2024, 9:30:00 AM",
+      "Dec 8, 2024, 1:15:00 PM"
+    ],
+    "ID": 4,
+    "nom": "Taylor",
+    "prenom": "Emily",
+    "sexe": "F",
+    "age": 40,
+    "adresse": "321 Birch Blvd, Suburbia",
+    "email": "emilytaylor@email.com",
+    "telephone": 55667788
+  },
+  {
+    "specialite": "SPECIALITE3",
+    "salary": 88.0,
+    "ID": 5,
+    "nom": "aakiha",
+    "prenom": "hvdv",
+    "sexe": "lama",
+    "age": 44,
+    "adresse": "szdkhdkz",
+    "email": "adjlaebf",
+    "telephone": 4875
+  }
+]

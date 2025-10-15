@@ -1,0 +1,45 @@
+[
+  {
+    "idsDossierPatients": [
+      1,
+      2,
+      3
+    ],
+    "ID": 1,
+    "nom": "John",
+    "prenom": "Doe",
+    "sexe": "Male",
+    "age": 30,
+    "adresse": "123 Main St",
+    "email": "john.doe@example.com",
+    "telephone": 12345678
+  },
+  {
+    "idsDossierPatients": [
+      4,
+      5,
+      6
+    ],
+    "ID": 2,
+    "nom": "Jane",
+    "prenom": "Smith",
+    "sexe": "Female",
+    "age": 28,
+    "adresse": "456 Elm St",
+    "email": "jane.smith@example.com",
+    "telephone": 98765432
+  },
+  {
+    "idsDossierPatients": [
+      7
+    ],
+    "ID": 3,
+    "nom": "aaaaa",
+    "prenom": "aaaaaa",
+    "sexe": "aaaa",
+    "age": 44,
+    "adresse": "aaaa",
+    "email": "aaaa",
+    "telephone": 444
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "idOrdonnance": 1,
+    "idMedecinPrescripteur": 1,
+    "contenu": "Examen IRM cervical",
+    "typeExamen": "IRM",
+    "date": "2023-10-01/14:30:00"
+  },
+  {
+    "idOrdonnance": 2,
+    "idMedecinPrescripteur": 2,
+    "contenu": "Scanner abdominal",
+    "typeExamen": "SCANNER",
+    "date": "2023-10-05/09:00:00"
+  },
+  {
+    "idOrdonnance": 3,
+    "idMedecinPrescripteur": 3,
+    "contenu": "IRM cérébrale",
+    "typeExamen": "IRM",
+    "date": "2023-10-10/15:45:00"
+  },
+  {
+    "idOrdonnance": 4,
+    "idMedecinPrescripteur": 5,
+    "contenu": "Scanner thoracique",
+    "typeExamen": "SCANNER",
+    "date": "2023-10-15/11:15:00"
+  },
+  {
+    "idOrdonnance": 5,
+    "idMedecinPrescripteur": 9,
+    "contenu": "IRM du genou",
+    "typeExamen": "IRM",
+    "date": "2023-10-20/13:30:00"
+  },
+  {
+    "idOrdonnance": 6,
+    "idMedecinPrescripteur": 3,
+    "contenu": "Scanner cérébral",
+    "typeExamen": "SCANNER",
+    "date": "2023-10-25/10:00:00"
+  }
+]

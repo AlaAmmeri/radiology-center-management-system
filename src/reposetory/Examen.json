@@ -1,0 +1,56 @@
+[
+  {
+    "type": "IRM",
+    "idExamen": 1,
+    "date": "2023-10-01/10:00:00",
+    "Result": "Normal",
+    "idTechnicien": 1,
+    "idSalle": 1,
+    "prix": 500.0
+  },
+  {
+    "type": "SCANNER",
+    "idExamen": 2,
+    "date": "2023-10-02/11:30:00",
+    "Result": "Anomalies détectées",
+    "idTechnicien": 2,
+    "idSalle": 2,
+    "prix": 300.0
+  },
+  {
+    "type": "IRM",
+    "idExamen": 3,
+    "date": "2024-04-17/12:12:12",
+    "Result": "fzeffzrfrf",
+    "idTechnicien": 4,
+    "idSalle": 0,
+    "prix": 44.0
+  },
+  {
+    "type": "SCANNER",
+    "idExamen": 4,
+    "date": "2023-10-04/14:45:00",
+    "Result": "Normal",
+    "idTechnicien": 3,
+    "idSalle": 1,
+    "prix": 350.0
+  },
+  {
+    "type": "IRM",
+    "idExamen": 5,
+    "date": "2023-10-05/16:00:00",
+    "Result": "Anomalies détectées",
+    "idTechnicien": 4,
+    "idSalle": 4,
+    "prix": 600.0
+  },
+  {
+    "type": "SCANNER",
+    "idExamen": 6,
+    "date": "2023-10-06/12:30:00",
+    "Result": "Normal",
+    "idTechnicien": 2,
+    "idSalle": 2,
+    "prix": 400.0
+  }
+]
